@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coldbrewlax
-- 👀 I’m interested in Powershell and MS Windows automation.
+- 👀 I’m interested in Powershell, MS Windows automation, Citrix, and Cloud technologies.
 - 🌱 I’m currently learning VDI administration.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
